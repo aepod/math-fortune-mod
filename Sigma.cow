@@ -5,18 +5,8 @@
 $the_cow = <<EOC;
  $thoughts
    $thoughts
-        -/////////////////:             
-        +mMMMMMddddddddddMM             
-         .omMMMh-`       +d             
-           `+dMMMy:`                    
-             `/dMMMh/`                  
-               `:hMMMd/                 
-                 `hMMh:                 
-               `/hNh:`                  
-             `/dNy-`                    
-           `+mMy-`       :s             
-         `omMMdsooooooooyNM             
-        /mMMMMMMMMMMMMMMMMM             
-        -::::::::::::::::::             
-
+        \  /           
+        [bd]
+       /[__]\
+        d  b
 EOC
